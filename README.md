@@ -1,5 +1,4 @@
-##repeatJS
-********
+#repeatJS
 repeaptJS is a tool that can make your function to repaet, stop and restart
 
 ###Example1
