@@ -74,12 +74,7 @@ var repeat = function (method, period, reinitializer) {
 			}
 		},
             
-		/**
-		 * Add numToAdd to the number of times the function will run. If doRunImmediately, 
-		 * instantly launch not running. Otherwise just add it to a cumulative # of times
-		 * it will run once it's launched. If the function is already running and non-infinite,
-		 * add numToAdd to the number of times it will run.
-		 */
+
 		addRepeats: function(numToAdd, doRunImmediately) {
 			var self = this, 
 			newNum;
