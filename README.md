@@ -2,7 +2,7 @@
 repeaptJS is a tool that can make your function to repaet, stop and restart
 
 ###Example1
-```
+```js
 var theFun = function () {
     // Do something
 };
@@ -15,7 +15,7 @@ test.restart(); // will stop, then start the function.
 ```
 
 ###Example2
-```
+```js
 var reinit = function () {
     // Clean up
 };
@@ -27,7 +27,7 @@ test2.restart(); // stops theFun, runs reinit, then starts theFun again
 ```
 
 ###Example3
-```
+```js
 var theFun = function () {
     // Do something
 };
